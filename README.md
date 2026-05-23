@@ -94,9 +94,7 @@ A multi-role hiring platform built for a real recruitment agency, connecting **c
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moses-xm&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moses-xm&layout=compact&theme=default&hide_border=true&langs_count=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Moses-xm&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
