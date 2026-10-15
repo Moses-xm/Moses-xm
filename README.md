@@ -2,9 +2,9 @@
 
 # Mason (Mengxun) Wang
 
-**Full-Stack Developer · Calgary, Canada 🇨🇦**
+**Software Developer · Calgary, Canada 🇨🇦**
 
-React & Next.js specialist growing into the full stack · AI-assisted workflows · Open to opportunities
+Full-stack web developer (React · Next.js · NestJS) who enjoys tracking problems down to the root cause · AI-assisted workflows · Open to opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mason-xm-wang/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mason.wang780@gmail.com)
@@ -16,12 +16,12 @@ React & Next.js specialist growing into the full stack · AI-assisted workflows 
 
 ## 👨‍💻 About Me
 
-- 🎓 Graduated from **SAIT** — Software Development Diploma (2026)
-- 💼 3 years of production front-end experience at **DtDream Technologies**, China
-- ⚡ Cut a government portal's first-screen load time from **3s → 1s** using code splitting & lazy loading
-- 🌱 Deepening my back-end skills with **NestJS, Node.js, and Python**
+- 🎓 Graduated from **SAIT** — Software Development Diploma with Honours (2026) · B.Eng. in Computer Science and Technology
+- 💼 3+ years of professional front-end experience in Hangzhou, China — **DtDream Technologies** (government big-data platforms) and **Na Park Technology**
+- 🔎 I like the part of the job where something breaks: reproduce it, find the root cause, get people working again, and write down what happened
+- 🌱 Growing on the back end with **NestJS, Node.js and Python (FastAPI)**
 - 🤖 Use **Claude & GitHub Copilot** daily — not just to write faster, but to learn and think better
-- 📍 Based in Calgary · Open to **remote full-stack roles** across Canada
+- 📍 Based in Calgary · Open to **software developer and technical support roles** across Canada
 
 ---
 
@@ -34,6 +34,7 @@ React & Next.js specialist growing into the full stack · AI-assisted workflows 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
@@ -43,18 +44,19 @@ React & Next.js specialist growing into the full stack · AI-assisted workflows 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 **Database & DevOps**
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **AI & Productivity**
@@ -65,28 +67,50 @@ React & Next.js specialist growing into the full stack · AI-assisted workflows 
 
 ---
 
-## 🚀 Featured Project — CATaur
+## 🚀 Featured Projects
 
-> **AI-Powered HR Management Platform** · SAIT Capstone Project (Jan – Apr 2026)
+### 🌊 Wellspring — Content-Sharing Platform
 
-A multi-role hiring platform built for a real recruitment agency, connecting **candidates, recruiters, admins, and clients** on one unified workflow.
+> Articles, audio and curated external resources for **2,000+ users** · Rebuilt solo · Jun 2026 – present · *private repo, in production*
 
 | Area | What I Built |
 |---|---|
-| 🎨 **Frontend** | Full UI across 4 user roles using Next.js + Tailwind CSS — designed and implemented independently |
-| 🤖 **AI Features** | OpenAI-powered resume parsing (upload → auto-fill profile) + section-level AI resume editing |
-| 📊 **Tracking** | Real-time application tracking system for candidates and recruiters |
-| 🔐 **Auth & Admin** | RBAC across 4 roles + admin dashboard with audit logs and platform config |
-| 🛠️ **Stack** | Next.js · NestJS · MariaDB · Redis · OpenAI API |
+| 🧱 **Architecture** | pnpm + Turborepo monorepo — a NestJS + Prisma + PostgreSQL API, two Next.js apps (admin and user) and an Expo Android app |
+| 🔎 **Troubleshooting** | Traced broken and frozen pages on older Android phones to outdated System WebView engines; shipped an ES5 fallback screen first, then rebuilt the CSS pipeline for old browsers |
+| 🚀 **Operations** | Separate staging and production environments with Docker and change-based builds; hourly backups to Alibaba Cloud OSS; a server runbook |
+| 🔁 **Migration** | Moved the legacy platform's data over and kept every existing user link working |
+
+### 🏠 [RentRoom](https://github.com/Moses-xm/rent-room) — Rental Platform
+
+> Tenant and landlord portal + admin console · Next.js 16 · Prisma · PostgreSQL · Vercel · *public repo*
+
+- Room search by map, district, subway line and community; viewing appointments, rental contracts, orders and a wallet
+- Passwords hashed with scrypt; legacy plain-text passwords are upgraded automatically on sign-in
+- A rebuild of my 2021 graduation project, including migration scripts for the original MySQL data
+
+### 🧠 Roseal — AI Research Platform
+
+> Neuron-based AI system · Collaborative project · Mar 2026 – present · *private repo*
+
+- Build the Next.js workbench — node-and-wire canvases, a 3D editor and debug-mode history playback — plus FastAPI endpoints
+- Turn user feedback into fixes and usability improvements
+
+### 🎓 CATaur — SAIT Capstone (Jan – Apr 2026)
+
+> Multi-role hiring platform for a real recruitment agency · Next.js · Tailwind CSS
+
+- **Front-end lead** on a 6-person team
+- Built the admin console (AI provider and email-server settings, audit logs, user management), recruiter and client job-order views, and role-based login routing
 
 ---
 
 ## 📈 Things I've Shipped
 
-- ⚡ **3s → 1s** first-screen load time on a government big data portal — via code splitting & lazy loading
-- 📦 **React component library (DSC)** — 10+ reusable components built with Lerna + Vite, adopted across 5+ projects
-- 📤 **Chunked file upload system** — supports resumable upload and instant transfer, built from scratch
-- 🏗️ **Micro Frontend integration** — connected new modules into a legacy system with zero disruption
+- ⚡ **3s → 1s** first-screen load time on a government big-data portal (measured with Lighthouse) — via code splitting & lazy loading
+- 🧾 **Form-state component** — keeps long forms and pagination in the URL so an accidental refresh loses nothing; adopted across products and submitted as a patent application
+- 📦 **React component library (DSC)** — led the project; 10+ reusable components built with Lerna + Vite, adopted across multiple projects
+- 📤 **Chunked file upload** — resumable and instant transfer
+- 🏗️ **Micro-frontend integration** — embedded a new React + TypeScript app into a legacy system with qiankun
 
 ---
 
