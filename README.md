@@ -21,7 +21,7 @@ Full-stack web developer (React · Next.js · NestJS) who enjoys tracking proble
 - 🔎 I like the part of the job where something breaks: reproduce it, find the root cause, get people working again, and write down what happened
 - 🌱 Growing on the back end with **NestJS, Node.js and Python (FastAPI)**
 - 🤖 Use **Claude & GitHub Copilot** daily — not just to write faster, but to learn and think better
-- 📍 Based in Calgary · Open to **software developer and technical support roles** across Canada
+- 📍 Based in Calgary · Open to **software developer roles** across Canada
 
 ---
 
