@@ -71,14 +71,13 @@ Full-stack web developer (React · Next.js · NestJS) who enjoys tracking proble
 
 ### 🌊 Wellspring — Content-Sharing Platform
 
-> Articles, audio and curated external resources for **2,000+ users** · Rebuilt solo · Jun 2026 – present · *private repo, in production*
+> Articles, audio and curated external resources for **2,000+ users** · Designed and built solo, from scratch · Jun 2026 – present · *private repo, in production*
 
 | Area | What I Built |
 |---|---|
 | 🧱 **Architecture** | pnpm + Turborepo monorepo — a NestJS + Prisma + PostgreSQL API, two Next.js apps (admin and user) and an Expo Android app |
-| 🔎 **Troubleshooting** | Traced broken and frozen pages on older Android phones to outdated System WebView engines; shipped an ES5 fallback screen first, then rebuilt the CSS pipeline for old browsers |
+| 🔎 **Troubleshooting** | Traced broken and frozen pages on older Android phones to outdated System WebView engines; shipped an ES5 fallback screen first, then reworked the CSS pipeline for old browsers |
 | 🚀 **Operations** | Separate staging and production environments with Docker and change-based builds; hourly backups to Alibaba Cloud OSS; a server runbook |
-| 🔁 **Migration** | Moved the legacy platform's data over and kept every existing user link working |
 
 ### 🏠 [RentRoom](https://github.com/Moses-xm/rent-room) — Rental Platform
 
@@ -94,13 +93,6 @@ Full-stack web developer (React · Next.js · NestJS) who enjoys tracking proble
 
 - Build the Next.js workbench — node-and-wire canvases, a 3D editor and debug-mode history playback — plus FastAPI endpoints
 - Turn user feedback into fixes and usability improvements
-
-### 🎓 CATaur — SAIT Capstone (Jan – Apr 2026)
-
-> Multi-role hiring platform for a real recruitment agency · Next.js · Tailwind CSS
-
-- **Front-end lead** on a 6-person team
-- Built the admin console (AI provider and email-server settings, audit logs, user management), recruiter and client job-order views, and role-based login routing
 
 ---
 
